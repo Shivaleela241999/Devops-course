@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tea
 
 
+=======
+coffee
+>>>>>>> 9ee2eaecaf783d354af18b3403b9d284d61b4bb0
