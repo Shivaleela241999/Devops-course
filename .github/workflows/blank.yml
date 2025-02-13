@@ -1,12 +1,10 @@
 name: Problem 001 Workflow
-
 on:
   push:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    step:
+    steps:
       - name: checkout codw
         run: actions/checkout@v3
       - name: Say Hello
